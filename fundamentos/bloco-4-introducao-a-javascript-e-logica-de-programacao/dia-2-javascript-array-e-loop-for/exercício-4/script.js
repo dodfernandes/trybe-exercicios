@@ -8,4 +8,8 @@ for (let index = 0; index < numbers.length; index += 1) {
 
 media = media / numbers.length;
 
-console.log('A média aritmética dos valores contidos no array é=', media);
+if (media > 20){
+    console.log('Valor MAIOR que 20!');
+} else {
+    console.log('Valor MENOR que 20!');
+};
