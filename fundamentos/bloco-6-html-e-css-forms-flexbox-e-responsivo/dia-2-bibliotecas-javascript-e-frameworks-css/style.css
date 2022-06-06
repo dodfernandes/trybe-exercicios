@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+}
+
+#destinys {
+    display: flex;
+    margin: 0 auto 20px;
+    width: 500px;
+    justify-content: space-between;
+}
+
+#titulo {
+    color: rgb(56, 56, 56);
+    margin: 30px 0;
+}
+
+#nameemail {
+    display: flex;
+    margin: 0 auto;
+    width: 500px;
+    justify-content: space-between;
+}
+
+#formulario {
+    color: aliceblue;
+    background-color: rgb(18, 133, 75);
+    padding: 20px;
+}
+
